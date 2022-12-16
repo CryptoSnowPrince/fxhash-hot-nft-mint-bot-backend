@@ -4,9 +4,7 @@
     "version": "0.0.1",
     "type": "module",
     "scripts": {
-        "devMain": "nodemon src/main.js",
-        "devFetch": "nodemon src/fetch.js",
-        "devNotify": "nodemon src/notify.js"
+        "dev": "nodemon src/index.js"
     },
     "dependencies": {
         "@ledgerhq/hw-transport-node-hid": "^6.27.3",

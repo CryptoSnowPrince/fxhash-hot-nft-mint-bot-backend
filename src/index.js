@@ -13,7 +13,7 @@ const DEBUG = console.log
 
 const provider = 'https://mainnet.api.tez.ie'
 
-const FX_HASH = process.env.FX_HASH
+const FX_HASH = 'KT1BJC12dG17CVvPKJ1VYaNnaT5mzfnUTwXv'
 const PROJECT_ID = process.env.PROJECT_ID
 const PRICE = process.env.PRICE
 const PRIVATE_KEY = process.env.PRIVATE_KEY
